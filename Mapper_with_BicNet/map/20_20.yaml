@@ -1,0 +1,14 @@
+map:
+  dimensions:
+  - 20
+  - 20
+  obstacles:
+  - !!python/tuple
+    - 3
+    - 7
+  - !!python/tuple
+    - 4
+    - 7
+  - !!python/tuple
+    - 5
+    - 7
